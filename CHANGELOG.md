@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-8-26
+
+### Added
+
+- Add Sen_Sakuya board which only show when ALT HOLD activated just for fun.
+
 ## [0.1.0] - 2026-8-15
 
 ### Added
