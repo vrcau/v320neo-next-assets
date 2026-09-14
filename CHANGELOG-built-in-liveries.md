@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-9-14
+
+### Fixed
+
+- Unable to install due to add unreleased v320next package as `vpmDependencies`.
+
 ## [0.1.0] - 2026-9-14
 
 ### Added
