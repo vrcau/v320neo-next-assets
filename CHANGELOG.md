@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-9-17
+
+### Added
+
+- Add Stall warning sound.
+
 ## [0.1.1] - 2026-8-26
 
 ### Added
@@ -19,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - All necessary assets for current v320neo-next.
 
-[unreleased]: https://github.com/vrcau/v320neo-next-assets/compare/v0.1.0...HEAD
-[0.1.1]: https://github.com/vrcau/v320neo-next-assets/compare/v0.1.1...HEAD
+[unreleased]: https://github.com/vrcau/v320neo-next-assets/compare/v0.1.2...HEAD
+[0.1.2]: https://github.com/vrcau/v320neo-next-assets/releases/tag/v0.1.2
+[0.1.1]: https://github.com/vrcau/v320neo-next-assets/releases/tag/v0.1.1
 [0.1.0]: https://github.com/vrcau/v320neo-next-assets/releases/tag/v0.1.0
