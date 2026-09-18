@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-9-18
+
+### Changed
+
+- Bump base assets package to v0.2.0.
+
 ## [0.1.2] - 2026-9-1
 
 ### Fixed
